@@ -64,7 +64,7 @@ In alphabetical order.\n\
 \n\
 Tilman Benkert[1], Markus Bongard, Tobias Burnus, Rémy Claverie, f0ma, José Antonio Lorenzo Fernández, \
 Pavel Fric, Jan Helebrant, Daniel Klaer, Peter Landgren, Fellype do Nascimento, Tomomasa Ohkubo, \
-Mikhail Shevyakov, Russell Standish, Mauricio Troviano\n\
+Piotr Sawicki, Mikhail Shevyakov, Russell Standish, Mauricio Troviano\n\
 \n\
 --- Packagers ---\n\
 \n\
